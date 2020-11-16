@@ -1,0 +1,11 @@
+main{
+    margin:0 auto ;
+}
+.container{
+    background: #4bb7c5;
+    color: #fafafa;
+    line-height: 1.5rem;
+    width: 86%;
+    height: 86%;
+    max-width: 600px;
+}

@@ -1,0 +1,38 @@
+body{
+    background: rgb(192, 192, 192) ;
+}
+
+.container{
+    font-size: 2rem;
+    background: white;
+    width: 500px;
+    height: 500px;
+    border: solid black 5px;
+    padding: 10px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+.container-1{
+    font-size: 2rem;
+    background: white;
+    width: 500px;
+    height: 500px;
+    border: solid black 5px;
+    padding: 10px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+
+}
+.item{
+    background: rgb(50, 122, 205);
+    width: 400px;
+    height: 50px;
+    margin: 10px;
+}
+.item-{
+    background: rgb(50, 122, 205);
+    width: 400px;
+    margin: 10px;
+}

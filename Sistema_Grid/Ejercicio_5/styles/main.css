@@ -1,0 +1,27 @@
+
+header{
+    width: 100%;
+    height: 10%;
+    background-color: pink;
+    color: #fff;
+}
+main{
+    height: 80%;
+}
+aside{
+    width: 100%;
+    background-color: blue;
+    color: #fff;
+}
+section{
+    width: 100%;
+    background-color: red;
+    color: #fff;
+
+}
+footer{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(10, 81, 99);
+    color: #fff;
+}

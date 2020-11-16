@@ -1,0 +1,30 @@
+.container{
+    color: #fff;
+    display: grid;
+    grid-template-columns: 12(1fr);
+    grid-template-rows: 20vh 60vh 20vh;
+}
+
+.header{
+    text-align: center;
+    background: rgb(235, 50, 66);
+    grid-column: span 12;
+}
+
+.nav{
+    text-align: center;
+    background: #50d7db;
+    grid-column: span 4;
+}
+
+.content{
+    text-align: center;
+    background: #b4ec31;
+    grid-column: span 8;
+}
+
+.footer{
+    text-align: center;
+    background: #6712c9;
+    grid-column: span 12;
+}
